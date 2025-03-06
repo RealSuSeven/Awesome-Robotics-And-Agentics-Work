@@ -245,6 +245,9 @@ For details please refer to [Papers List](papers/Robotics.md)
   *Chenguang Huang, Oier Mees, Andy Zeng, Wolfram Burgard* <br>
   ICRA'23, arXiv, 2022.10 [[Paper](https://arxiv.org/abs/2210.05714)], [[PDF](https://arxiv.org/pdf/2210.05714.pdf)], [[Code](https://arxiv.org/pdf/2308.07931.pdf)], [[Home Page](https://vlmaps.github.io/)]  <br>
 ### <a name="robo_planning"></a> Planning
+- **Code-as-Monitor: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection** <br>
+  *Enshen Zhou, Qi Su, Cheng Chi, Zhizheng Zhang, Zhongyuan Wang, Tiejun Huang, Lu Sheng, He Wang* <br>
+  CVPR'25, arXiv, 2024.12 [[Paper](https://arxiv.org/abs/2412.04455)], [[Project](https://zhoues.github.io/Code-as-Monitor/)] <br>
 - **SUGAR: Pre-training 3D Visual Representations for Robotics** <br>
   *Shizhe Chen, Ricardo Garcia, Ivan Laptev, Cordelia Schmid* <br>
   CVPR'24, arXiv, 2024.04 [[Paper](https://arxiv.org/abs/2404.01491)], [[PDF](https://arxiv.org/pdf/2404.01491.pdf)], [[Home Page](https://cshizhe.github.io/projects/robot_sugar.html)] <br>
